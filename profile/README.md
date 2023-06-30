@@ -1,5 +1,7 @@
 ## TangLink
 ### URL Shortener
 
-https://tanglink.onrender.com
+#### Website -> https://tanglink-url.github.io/website/
+
+#### API -> https://tanglink.onrender.com
 
